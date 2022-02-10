@@ -18,7 +18,7 @@ Messai O, Hachouf F, Seghir ZA. AdaBoost neural network and cyclopean view for n
 
 # BibTex :
 
-\cite{@article{messai2020adaboost,
+@article{messai2020adaboost,
   title={AdaBoost neural network and cyclopean view for no-reference stereoscopic image quality assessment},
   author={Messai, Oussama and Hachouf, Fella and Seghir, Zianou Ahmed},
   journal={Signal Processing: Image Communication},
