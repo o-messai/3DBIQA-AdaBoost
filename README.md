@@ -18,7 +18,8 @@ We have reported experimental results on different IQA datasets including LIVE 3
 
 If you use this code, we kindly ask you to cite the paper :
 ```
-Messai O, Hachouf F, Seghir ZA. AdaBoost neural network and cyclopean view for no-reference stereoscopic image quality assessment. Signal Processing: Image Communication. 2020 Mar 1;82:115772.
+Messai O, Hachouf F, Seghir ZA. AdaBoost neural network and cyclopean view for no-reference stereoscopic image quality assessment. 
+Signal Processing: Image Communication. 2020 Mar 1;82:115772.
 ```
 # BibTex :
 ```
