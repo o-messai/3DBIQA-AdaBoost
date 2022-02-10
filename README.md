@@ -10,14 +10,18 @@ Publisher URL: https://www.sciencedirect.com/science/article/pii/S09235965193007
 
 DOI: 10.1016/j.image.2019.115772
 
+## IQA datasets:
+
+We have reported experimental results on different IQA datasets including LIVE 3D Phase I, LIVE 3D Phase II, and ICV 3D.
+
 # Citation :
 
 If you use this code, we kindly ask you to cite the paper :
-
+```
 Messai O, Hachouf F, Seghir ZA. AdaBoost neural network and cyclopean view for no-reference stereoscopic image quality assessment. Signal Processing: Image Communication. 2020 Mar 1;82:115772.
-
+```
 # BibTex :
-
+```
 @article{messai2020adaboost,
   title={AdaBoost neural network and cyclopean view for no-reference stereoscopic image quality assessment},
   author={Messai, Oussama and Hachouf, Fella and Seghir, Zianou Ahmed},
@@ -26,8 +30,8 @@ Messai O, Hachouf F, Seghir ZA. AdaBoost neural network and cyclopean view for n
   pages={115772},
   year={2020},
   publisher={Elsevier}
-}}
-
+}
+```
 
 
 
