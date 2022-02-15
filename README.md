@@ -1,5 +1,5 @@
 # Adaboost Neural Network And Cyclopean View For No-reference Stereoscopic Image Quality Assessment
-Paper: "Adaboost Neural Network And Cyclopean View For No-reference Stereoscopic Image Quality Assessment"
+Paper title: "Adaboost Neural Network And Cyclopean View For No-reference Stereoscopic Image Quality Assessment"
 This code is the implementation of the proposed method called 3D-AdaBoost: 
 
 # Abtract :
